@@ -37,9 +37,9 @@
 <h4 align="left">How to reach me:</h4>
 
 <div align="center">
-  <a href=''> <img src='https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white' />https://www.linkedin.com/in/gusevfe/</a>
-  <a href=''> <img src='https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white' />https://www.t.me/Artemdvd</a>
-  <a href=''> <img src='https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white' />artemdvd@gmail.com</a>
+  <a href='https://www.linkedin.com/in/gusevfe/'> <img src='https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
+  <a href='https://www.t.me/Artemdvd'> <img src='https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white' /></a>
+  <a href='artemdvd@gmail.com'> <img src='https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white' /></a>
 </div>
 
 <!-- Feel free to add more sections based on your preferences! -->
