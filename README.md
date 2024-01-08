@@ -26,21 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  
 </div>
 
-<h4 align="left">Skills:</h4>
-
-- Vue.js
-- Nuxt.js
-- Pinia
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Sass
-- Vuetify
-- Naive UI
-- Git
-- Figma
-
 <h4 align="left">Statistics:</h4>
 
 <div align="center">
