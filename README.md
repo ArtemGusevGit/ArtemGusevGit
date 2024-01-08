@@ -22,10 +22,10 @@
 </div>
 <h4 align="left">Statistic:</h4>
 <div align="center">
-	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nadyushka&theme=aura" height="150"   />
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemGusevGit&theme=aura" height="150"   />
 	</br>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Nadyushka&theme=aura" height="150" alt="stats graph"  />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Nadyushka&theme=aura" height="150" alt="languages graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemGusevGit&theme=aura" height="150" alt="stats graph"  />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArtemGusevGit&theme=aura" height="150" alt="languages graph"  />
 </div>
 
 
