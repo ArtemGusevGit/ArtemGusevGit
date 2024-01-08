@@ -26,8 +26,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  
 </div>
 
-<h4 align="left">Statistics:</h4>
-
 <div align="center">
   <!-- Uncomment the following lines when you want to display GitHub statistics -->
   <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemGusevGit&theme=aura" height="150"   />
@@ -39,9 +37,9 @@
 <h4 align="left">How to reach me:</h4>
 
 <div align="center">
-  <a href=''> <img src='https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white' /> </a>
-  <a href=''> <img src='https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white' /> </a>
-  <a href=''> <img src='https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white' /> </a>
+  <a href=''> <img src='https://img.shields.io/badge/linkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white' />https://www.linkedin.com/in/gusevfe/</a>
+  <a href=''> <img src='https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white' />https://www.t.me/Artemdvd</a>
+  <a href=''> <img src='https://img.shields.io/badge/gmail-blue?style=for-the-badge&logo=gmail&logoColor=white' />artemdvd@gmail.com</a>
 </div>
 
 <!-- Feel free to add more sections based on your preferences! -->
