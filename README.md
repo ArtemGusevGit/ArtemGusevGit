@@ -19,14 +19,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="52" alt="figma logo"  
   />
 
-</div>
+<!-- </div>
 <h4 align="left">Statistic:</h4>
 <div align="center">
 	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ArtemGusevGit&theme=aura" height="150"   />
 	</br>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ArtemGusevGit&theme=aura" height="150" alt="stats graph"  />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ArtemGusevGit&theme=aura" height="150" alt="languages graph"  />
-</div>
+</div> -->
 
 
 <!--
